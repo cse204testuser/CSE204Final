@@ -20,6 +20,8 @@ A readme for CSE 204
 * Each post contains the repo name, owner's username, a link to the repo, and the owner's profile picture in the post header. Below the post header is the readme for the repo.  
 //IMG
 
+* To update a readme, click the post button for the repo and the post will be overwritten with the new version.
+
 ## Notes
 * Readme images must be specified using a url (not just the file location in the repo) to be displayed correctly.
 
