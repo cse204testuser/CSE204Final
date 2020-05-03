@@ -19,8 +19,6 @@ A readme for CSE 204
 * Each post contains the repo name, owner's username, a link to the repo, and the owner's profile picture in the post header. Below the post header is the readme for the repo.  
 ![post](https://raw.githubusercontent.com/cse204testuser/CSE204Final/master/Screen%20Shot%202020-05-03%20at%201.50.28%20PM.png)
 
-* To update a readme, click the post button for the repo and the post will be overwritten with the new version.
-
 * Logins are persistent
 
 ## Notes
