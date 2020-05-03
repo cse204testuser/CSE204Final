@@ -6,6 +6,8 @@ A readme for CSE 204
 
 ## Features
 * Login using your GitHub account (scopes are set to read profile info only.) This was accomplished using [FirebaseAuth](https://firebase.google.com/docs/auth)
+![login](https://raw.githubusercontent.com/cse204testuser/CSE204Final/master/Screen%20Shot%202020-05-03%20at%201.42.34%20PM.png)
+
 * Upon login your public repos (not inluding those created through another organization like this class) will be displayed on the right of the screen along with a post button.
 ![right side](https://raw.githubusercontent.com/cse204testuser/CSE204Final/master/Screen%20Shot%202020-05-03%20at%201.19.28%20PM.png)
 
@@ -15,7 +17,7 @@ A readme for CSE 204
 * Upon logging in, a listener is set to listen for changes to the database. When any user adds a new post, it will immediately be displayed for all users in their feed, on the left side of the screen.
 
 * Each post contains the repo name, owner's username, a link to the repo, and the owner's profile picture in the post header. Below the post header is the readme for the repo.  
-//IMG
+![post](https://raw.githubusercontent.com/cse204testuser/CSE204Final/master/Screen%20Shot%202020-05-03%20at%201.50.28%20PM.png)
 
 * To update a readme, click the post button for the repo and the post will be overwritten with the new version.
 
