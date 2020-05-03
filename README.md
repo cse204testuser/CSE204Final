@@ -24,5 +24,6 @@ A readme for CSE 204
 
 ## Notes
 * Readme images must be specified using a url (not just the file location in the repo) to be displayed correctly.
+* Must have been recently authenticated to post. If a post is not showing up logout, login and try again.
 
 
