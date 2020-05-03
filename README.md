@@ -21,6 +21,8 @@ A readme for CSE 204
 
 * To update a readme, click the post button for the repo and the post will be overwritten with the new version.
 
+* Logins are persistent
+
 ## Notes
 * Readme images must be specified using a url (not just the file location in the repo) to be displayed correctly.
 * Must have been recently authenticated to post. If a post is not showing up logout, login and try again.
